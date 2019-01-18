@@ -1,0 +1,22 @@
+body{
+  background-color: lightblue;
+}
+table{
+  border-collapse: collapse;
+  margin: auto;
+}
+.screen{
+  border: 1px solid black;
+  margin-left:auto;
+  margin-right:auto;
+  width: 400px;
+  text-align: right;
+  margin-top: 50px;
+}
+
+button{
+  width: 100px;
+  height: 50px;
+  font-size: xx-large;
+}
+
